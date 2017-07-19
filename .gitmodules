@@ -1,0 +1,3 @@
+[submodule "submod_sub"]
+	path = submod_sub
+	url = https://github.com/acrodea-kawauchi/submod_sub.git
